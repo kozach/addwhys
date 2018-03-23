@@ -3,7 +3,7 @@ $(function() {
 // COMINGSOON
     var date = {
         start: moment("2018/3/13 19:45:29 GMT+0200"),
-        end: moment("2014/4/5 19:30:29 GMT+0200")
+        end: moment("2018/4/5 19:30:29 GMT+0200")
     };
     var millhour = 60 * 60 * 1000;
     var millminutes = 60 * 1000;
